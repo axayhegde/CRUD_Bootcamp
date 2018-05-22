@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7df0e391-d8da-434e-ac64-6cd1a6daf6d3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/customer.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/customer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/customerRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/customerRoutes.js" afterDir="false" />
-    </list>
+    <list default="true" id="7df0e391-d8da-434e-ac64-6cd1a6daf6d3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customer.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="customer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models/customer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="324">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -41,7 +37,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="customerRoutes.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="customerRoutes.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/customerRoutes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -179,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526873283973</updated>
       <workItem from="1526873286495" duration="2001000" />
-      <workItem from="1526875327989" duration="11691000" />
+      <workItem from="1526875327989" duration="12929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13692000" />
+    <option name="totallyTimeSpent" value="14930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -275,17 +271,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/customerRoutes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
         </state>
       </provider>
     </entry>
